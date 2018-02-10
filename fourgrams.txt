@@ -1,0 +1,1 @@
+Number of fourgrams generated in training data are:11435722
